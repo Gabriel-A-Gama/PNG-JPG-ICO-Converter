@@ -55,15 +55,14 @@ img_to_ico.exe "C:\caminho\para\imagem.png"
 
 ```bash
 git clone https://github.com/Gabriel-A-Gama/PNG-JPG-ICO-Converter.git
-cd img-to-ico
+cd PNG-JPG-ICO-Converter
 ```
 
 
 
 ### 2. Abra no Visual Studio 2022
 
-- Abra o arquivo `.sln` ou crie um novo projeto **Console App (C++)**
-- Adicione `img_to_ico.cpp` ao projeto
+- Abra o arquivo `.sln`
 
 
 ### 4. Configure o projeto
